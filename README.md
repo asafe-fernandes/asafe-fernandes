@@ -55,8 +55,7 @@ Olá! Sou estudante de Sistemas de Informação no Instituto Federal Fluminense 
 **Mathub** | Campos dos Goytacazes ‑ RJ | 2024 – 2025
 
 * Projetou e implementou API RESTful em Java Spring Boot, aplicando boas práticas de desenvolvimento ágil.
-* Integração com MongoDB para armazenamento de dados e autenticação via JWT.
-* Colaborou em sprints quinzenais, garantindo entregas contínuas e qualidade de código.
+* Integração com MongoDB para armazenamento de dados.
 
 ---
 
